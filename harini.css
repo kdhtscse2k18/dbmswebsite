@@ -54,7 +54,7 @@ img
 }
 body
 {
-	background-image:url("images/bgh.jpg");
+	background-image:url("bgh.jpg");
 	background-repeat:no-repeat;
     background-size:cover;
 }
