@@ -47,7 +47,7 @@ img
 body
 {
 	background-image:url("kav.jpg");
-	
+	background-attachment:scroll;
     background-size:100%;
 
 	background-color:black;
