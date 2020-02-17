@@ -3,6 +3,7 @@ background-image:url("star1.gif");
 background-repeat:no-repeat;
 background-size:cover;
 background-color:#01011c;
+background-attachment: fixed;
 }
 .introdiv
 {
