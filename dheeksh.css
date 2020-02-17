@@ -55,8 +55,8 @@ img
 body
 {
 	background-image:url("bg11.jpeg");
-	background-repeat:no-repeat;
-    background-size:cover;
+	background-repeat:repeat;
+    background-size:100%;
 }
 .sai
 {
