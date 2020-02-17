@@ -47,6 +47,6 @@ img
 body
 {
 	background-image:url("kav.jpg");
-	background-repeat:no-repeat;
+	background-repeat:repeat;
     background-size:cover;
 }
