@@ -55,6 +55,6 @@ img
 body
 {
 	background-image:url("bgh.jpg");
-	background-repeat:no-repeat;
-    background-size:cover;
+	background-repeat:repeat;
+    background-size:100%;
 }
