@@ -49,4 +49,5 @@ body
 	background-image:url("kav.jpg");
 	background-repeat:repeat;
     background-size:cover;
+	background-attachment:fixed;
 }
