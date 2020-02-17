@@ -47,8 +47,8 @@ img
 body
 {
 	background-image:url("kav.jpg");
-	background-repeat:repeat;
+	
     background-size:100%;
-	background-attachment:fixed;
+
 	background-color:black;
 }
