@@ -53,6 +53,6 @@ img
 }
 body{
 background-image:url("bg13.jpg");
-background-repeat:no-repeat;
-background-size:cover;
+background-repeat:repeat;
+    background-size:100%;
 }
