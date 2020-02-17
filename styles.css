@@ -1,6 +1,7 @@
 body{
 background-image:url("star1.gif");
 background-repeat:repeat;
+background-attachment:scroll;
 background-size:100%;
 }
 .introdiv
